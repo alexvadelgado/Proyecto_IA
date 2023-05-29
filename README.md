@@ -17,3 +17,6 @@ Ingeniería Industrial
 
 Enlace de la competición en kaggle
 https://www.kaggle.com/c/home-credit-default-risk/overview
+
+Enlace del video Entrega Final
+https://www.youtube.com/watch?v=4X0uY4h2u0I
